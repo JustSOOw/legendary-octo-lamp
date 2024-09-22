@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\QTF.dir/objects.a
+E:\QT\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\QTF.dir/objects.a @CMakeFiles\QTF.dir\objects1.rsp
+E:\QT\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\QTF.dir/objects.a -Wl,--no-whole-archive -o QTF.exe -Wl,--out-implib,libQTF.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QTF.dir\linkLibs.rsp

@@ -1,0 +1,11 @@
+# ninja log v6
+17	406	7478350516795505	QTF_autogen/timestamp	849606745b06b43a
+17	406	7478350516795505	QTF_autogen/mocs_compilation.cpp	849606745b06b43a
+17	406	7478350516795505	D:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/timestamp	849606745b06b43a
+17	406	7478350516795505	D:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/mocs_compilation.cpp	849606745b06b43a
+410	3783	7478350517268816	CMakeFiles/QTF.dir/main.cpp.obj	2cf1f28781e61bfc
+407	3787	7478350517238817	CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj	f699e43da69663d4
+412	3793	7478350517299229	CMakeFiles/QTF.dir/mainwindow.cpp.obj	81fa5e01b5c7fac
+3793	5043	7478350551121898	QTF.exe	d48aabc2c0c3d419
+415	3786	7478350517343793	CMakeFiles/QTF.dir/test_form.cpp.obj	f307dc0ab97c4c6f
+418	3787	7478350517369323	CMakeFiles/QTF.dir/test_dialog.cpp.obj	bc1e893113cb06ad

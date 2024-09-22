@@ -1,0 +1,9 @@
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/QTF.dir
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/edit_cache.dir
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/rebuild_cache.dir
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/list_install_components.dir
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/install.dir
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/install/local.dir
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/install/strip.dir
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/QTF_autogen_timestamp_deps.dir
+D:/Users/JUSTsoo/Desktop/QTF/build/CMakeFiles/QTF_autogen.dir
