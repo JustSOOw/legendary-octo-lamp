@@ -79,8 +79,8 @@ clean: CMakeFiles/QTF_autogen.dir/clean
 # Target rules for target CMakeFiles/QTF.dir
 
 # All Build rule for target.
-CMakeFiles/QTF.dir/all: CMakeFiles/QTF_autogen_timestamp_deps.dir/all
 CMakeFiles/QTF.dir/all: CMakeFiles/QTF_autogen.dir/all
+CMakeFiles/QTF.dir/all: CMakeFiles/QTF_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\Users\JUSTsoo\Desktop\QTF\build\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target QTF"

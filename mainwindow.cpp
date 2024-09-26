@@ -2,7 +2,7 @@
  * @Author: Furdow wang22338014@gmail.com
  * @Date: 2024-09-08 16:26:34
  * @LastEditors: Furdow wang22338014@gmail.com
- * @LastEditTime: 2024-09-22 11:10:53
+ * @LastEditTime: 2024-09-26 18:28:00
  * @FilePath: \QTF\mainwindow.cpp
  * @Description: 
  * 
@@ -14,6 +14,9 @@
 #include "test_form.h"
 #include "test_dialog.h"
 #include "QPushButton"
+#include "QDebug"
+
+ QVariant dataPlus(QVariant a, QVariant b);
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
@@ -56,10 +59,55 @@ MainWindow::MainWindow(QWidget *parent)
     d->exec();
     #endif
 
+    int value =dataPlus(10,20).toInt();
+    QString str =dataPlus("hello","younet").toString();
+
+    qDebug()<<"int value"<<value;
+    qDebug()<<"string value"<<str;
+
+    person p;
+    p.id=1;
+    p.name="wang";
+    
+    #if 1
+        QVariant var;
+        var.setValue(p);
+    #else
+        QVariant var=QVariant::fromValue(p);
+    #endif
+
+    //取出v的值
+    if(var.canConvert<person>())
+    {
+        person p2=var.value<person>();
+        qDebug()<<"id:"<<p2.id<<"name:"<<p2.name;
+    }
+
 
 }
 
 MainWindow::~MainWindow()
 {
     delete ui;
+}
+
+QVariant MainWindow::dataPlus(QVariant a, QVariant b)
+{
+    QVariant result;
+    if(a.type()==QVariant::Int && b.type()==QVariant::Int)
+    {
+        result=a.toInt()+b.toInt();
+    }
+    else if (a.type() == QVariant::String && b.type() == QVariant::String)
+    {
+        result = a.toString() + b.toString();
+    }
+    else
+    {
+        // 处理其他类型
+    }
+
+
+    return result;
+
 }
