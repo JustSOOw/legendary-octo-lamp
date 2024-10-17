@@ -50,7 +50,7 @@ cmake_ninja_workdir = D$:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW
 build cmake_object_order_depends_target_QTF: phony || QTF_autogen QTF_autogen/mocs_compilation.cpp QTF_autogen/timestamp QTF_autogen_timestamp_deps
 
 build CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_QTF
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\QTF.dir\QTF_autogen\mocs_compilation.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -ID:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/include -isystem E:/QT/6.7.2/mingw_64/include/QtCore -isystem E:/QT/6.7.2/mingw_64/include -isystem E:/QT/6.7.2/mingw_64/mkspecs/win32-g++ -isystem E:/QT/6.7.2/mingw_64/include/QtWidgets -isystem E:/QT/6.7.2/mingw_64/include/QtGui
@@ -58,7 +58,7 @@ build CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj: CXX_COMPILER__QTF
   OBJECT_FILE_DIR = CMakeFiles\QTF.dir\QTF_autogen
 
 build CMakeFiles/QTF.dir/main.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$:/Users/JUSTsoo/Desktop/QTF/main.cpp || cmake_object_order_depends_target_QTF
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\QTF.dir\main.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -ID:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/include -isystem E:/QT/6.7.2/mingw_64/include/QtCore -isystem E:/QT/6.7.2/mingw_64/include -isystem E:/QT/6.7.2/mingw_64/mkspecs/win32-g++ -isystem E:/QT/6.7.2/mingw_64/include/QtWidgets -isystem E:/QT/6.7.2/mingw_64/include/QtGui
@@ -66,7 +66,7 @@ build CMakeFiles/QTF.dir/main.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$:/Use
   OBJECT_FILE_DIR = CMakeFiles\QTF.dir
 
 build CMakeFiles/QTF.dir/mainwindow.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$:/Users/JUSTsoo/Desktop/QTF/mainwindow.cpp || cmake_object_order_depends_target_QTF
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\QTF.dir\mainwindow.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -ID:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/include -isystem E:/QT/6.7.2/mingw_64/include/QtCore -isystem E:/QT/6.7.2/mingw_64/include -isystem E:/QT/6.7.2/mingw_64/mkspecs/win32-g++ -isystem E:/QT/6.7.2/mingw_64/include/QtWidgets -isystem E:/QT/6.7.2/mingw_64/include/QtGui
@@ -74,7 +74,7 @@ build CMakeFiles/QTF.dir/mainwindow.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D
   OBJECT_FILE_DIR = CMakeFiles\QTF.dir
 
 build CMakeFiles/QTF.dir/test_form.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$:/Users/JUSTsoo/Desktop/QTF/test_form.cpp || cmake_object_order_depends_target_QTF
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\QTF.dir\test_form.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -ID:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/include -isystem E:/QT/6.7.2/mingw_64/include/QtCore -isystem E:/QT/6.7.2/mingw_64/include -isystem E:/QT/6.7.2/mingw_64/mkspecs/win32-g++ -isystem E:/QT/6.7.2/mingw_64/include/QtWidgets -isystem E:/QT/6.7.2/mingw_64/include/QtGui
@@ -82,8 +82,24 @@ build CMakeFiles/QTF.dir/test_form.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$
   OBJECT_FILE_DIR = CMakeFiles\QTF.dir
 
 build CMakeFiles/QTF.dir/test_dialog.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$:/Users/JUSTsoo/Desktop/QTF/test_dialog.cpp || cmake_object_order_depends_target_QTF
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\QTF.dir\test_dialog.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/include -isystem E:/QT/6.7.2/mingw_64/include/QtCore -isystem E:/QT/6.7.2/mingw_64/include -isystem E:/QT/6.7.2/mingw_64/mkspecs/win32-g++ -isystem E:/QT/6.7.2/mingw_64/include/QtWidgets -isystem E:/QT/6.7.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\QTF.dir
+  OBJECT_FILE_DIR = CMakeFiles\QTF.dir
+
+build CMakeFiles/QTF.dir/girlfriend.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$:/Users/JUSTsoo/Desktop/QTF/girlfriend.cpp || cmake_object_order_depends_target_QTF
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\QTF.dir\girlfriend.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/include -isystem E:/QT/6.7.2/mingw_64/include/QtCore -isystem E:/QT/6.7.2/mingw_64/include -isystem E:/QT/6.7.2/mingw_64/mkspecs/win32-g++ -isystem E:/QT/6.7.2/mingw_64/include/QtWidgets -isystem E:/QT/6.7.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\QTF.dir
+  OBJECT_FILE_DIR = CMakeFiles\QTF.dir
+
+build CMakeFiles/QTF.dir/me.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug D$:/Users/JUSTsoo/Desktop/QTF/me.cpp || cmake_object_order_depends_target_QTF
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\QTF.dir\me.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -ID:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/QTF_autogen/include -isystem E:/QT/6.7.2/mingw_64/include/QtCore -isystem E:/QT/6.7.2/mingw_64/include -isystem E:/QT/6.7.2/mingw_64/mkspecs/win32-g++ -isystem E:/QT/6.7.2/mingw_64/include/QtWidgets -isystem E:/QT/6.7.2/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\QTF.dir
@@ -97,10 +113,9 @@ build CMakeFiles/QTF.dir/test_dialog.cpp.obj: CXX_COMPILER__QTF_unscanned_Debug 
 #############################################
 # Link the executable QTF.exe
 
-build QTF.exe: CXX_EXECUTABLE_LINKER__QTF_Debug CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj CMakeFiles/QTF.dir/main.cpp.obj CMakeFiles/QTF.dir/mainwindow.cpp.obj CMakeFiles/QTF.dir/test_form.cpp.obj CMakeFiles/QTF.dir/test_dialog.cpp.obj | E$:/QT/6.7.2/mingw_64/lib/libQt6Widgets.a E$:/QT/6.7.2/mingw_64/lib/libQt6Gui.a E$:/QT/6.7.2/mingw_64/lib/libQt6Core.a E$:/QT/6.7.2/mingw_64/lib/libQt6EntryPoint.a || QTF_autogen QTF_autogen_timestamp_deps
+build QTF.exe: CXX_EXECUTABLE_LINKER__QTF_Debug CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj CMakeFiles/QTF.dir/main.cpp.obj CMakeFiles/QTF.dir/mainwindow.cpp.obj CMakeFiles/QTF.dir/test_form.cpp.obj CMakeFiles/QTF.dir/test_dialog.cpp.obj CMakeFiles/QTF.dir/girlfriend.cpp.obj CMakeFiles/QTF.dir/me.cpp.obj | E$:/QT/6.7.2/mingw_64/lib/libQt6Widgets.a E$:/QT/6.7.2/mingw_64/lib/libQt6Gui.a E$:/QT/6.7.2/mingw_64/lib/libQt6Core.a || QTF_autogen QTF_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
-  LINK_FLAGS = -mwindows
-  LINK_LIBRARIES = E:/QT/6.7.2/mingw_64/lib/libQt6Widgets.a  E:/QT/6.7.2/mingw_64/lib/libQt6Gui.a  E:/QT/6.7.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  E:/QT/6.7.2/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  LINK_LIBRARIES = E:/QT/6.7.2/mingw_64/lib/libQt6Widgets.a  E:/QT/6.7.2/mingw_64/lib/libQt6Gui.a  E:/QT/6.7.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\QTF.dir
   POST_BUILD = cd .
   PRE_LINK = cd .

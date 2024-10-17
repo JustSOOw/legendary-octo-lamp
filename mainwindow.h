@@ -12,6 +12,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include "me.h"
+#include "girlfriend.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -37,10 +39,15 @@ public:
     ~MainWindow();
 
 
+    //添加hungry按钮曹函数
+    void hungrySlot();
+    void eatSlot();
     QVariant dataPlus(QVariant a, QVariant b);
 
 
 private:
     Ui::MainWindow *ui;
+    me *M_me;
+    girlfriend *G_gf;
 };
 #endif // MAINWINDOW_H

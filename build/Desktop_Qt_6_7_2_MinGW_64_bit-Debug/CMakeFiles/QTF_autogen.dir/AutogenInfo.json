@@ -297,9 +297,21 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/Users/JUSTsoo/Desktop/QTF/girlfriend.h",
+			"MU",
+			"EWIEGA46WW/moc_girlfriend.cpp",
+			null
+		],
+		[
 			"D:/Users/JUSTsoo/Desktop/QTF/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"D:/Users/JUSTsoo/Desktop/QTF/me.h",
+			"MU",
+			"EWIEGA46WW/moc_me.cpp",
 			null
 		],
 		[
@@ -323,7 +335,6 @@
 		"MINGW_HAS_SECURE_API=1",
 		"QT_CORE_LIB",
 		"QT_GUI_LIB",
-		"QT_NEEDS_QMAIN",
 		"QT_WIDGETS_LIB",
 		"UNICODE",
 		"WIN32",
@@ -386,8 +397,10 @@
 	"SETTINGS_FILE" : "D:/Users/JUSTsoo/Desktop/QTF/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/QTF_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "D:/Users/JUSTsoo/Desktop/QTF/girlfriend.cpp", "MU", null ],
 		[ "D:/Users/JUSTsoo/Desktop/QTF/main.cpp", "MU", null ],
 		[ "D:/Users/JUSTsoo/Desktop/QTF/mainwindow.cpp", "MU", null ],
+		[ "D:/Users/JUSTsoo/Desktop/QTF/me.cpp", "MU", null ],
 		[ "D:/Users/JUSTsoo/Desktop/QTF/test_dialog.cpp", "MU", null ],
 		[ "D:/Users/JUSTsoo/Desktop/QTF/test_form.cpp", "MU", null ]
 	],

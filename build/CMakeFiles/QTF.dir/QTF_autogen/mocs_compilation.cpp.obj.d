@@ -1,11 +1,11 @@
 CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj: \
  D:\Users\JUSTsoo\Desktop\QTF\build\QTF_autogen\mocs_compilation.cpp \
- D:\Users\JUSTsoo\Desktop\QTF\build\QTF_autogen\EWIEGA46WW/moc_mainwindow.cpp \
- D:/Users/JUSTsoo/Desktop/QTF/mainwindow.h \
- E:/QT/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
- E:/QT/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
- E:/QT/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
- E:/QT/6.7.2/mingw_64/include/QtGui/qtguiglobal.h \
+ D:\Users\JUSTsoo\Desktop\QTF\build\QTF_autogen\EWIEGA46WW/moc_girlfriend.cpp \
+ D:/Users/JUSTsoo/Desktop/QTF/girlfriend.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/QObject \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qobject.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qobjectdefs.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qnamespace.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qglobal.h \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -142,14 +142,6 @@ CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj: \
  E:/QT/6.7.2/mingw_64/include/QtCore/qtresource.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qttranslation.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qversiontagging.h \
- E:/QT/6.7.2/mingw_64/include/QtGui/qtgui-config.h \
- E:/QT/6.7.2/mingw_64/include/QtGui/qtguiexports.h \
- E:/QT/6.7.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
- E:/QT/6.7.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
- E:/QT/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
- E:/QT/6.7.2/mingw_64/include/QtGui/qwindowdefs.h \
- E:/QT/6.7.2/mingw_64/include/QtCore/qobjectdefs.h \
- E:/QT/6.7.2/mingw_64/include/QtCore/qnamespace.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qtmetamacros.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qobjectdefs_impl.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qfunctionaltools_impl.h \
@@ -203,8 +195,6 @@ CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj: \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/auto_ptr.h \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_memory_defs.h \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
- E:/QT/6.7.2/mingw_64/include/QtGui/qwindowdefs_win.h \
- E:/QT/6.7.2/mingw_64/include/QtCore/qobject.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qstring.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qchar.h \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
@@ -327,6 +317,23 @@ CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj: \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/chrono.h \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ratio \
  E:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ctime \
+ E:/QT/6.7.2/mingw_64/include/QtCore/QString \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qstring.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qtmochelpers.h \
+ D:\Users\JUSTsoo\Desktop\QTF\build\QTF_autogen\EWIEGA46WW/moc_mainwindow.cpp \
+ D:/Users/JUSTsoo/Desktop/QTF/mainwindow.h \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/QMainWindow \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/qmainwindow.h \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+ E:/QT/6.7.2/mingw_64/include/QtGui/qtguiglobal.h \
+ E:/QT/6.7.2/mingw_64/include/QtGui/qtgui-config.h \
+ E:/QT/6.7.2/mingw_64/include/QtGui/qtguiexports.h \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/qwidget.h \
+ E:/QT/6.7.2/mingw_64/include/QtGui/qwindowdefs.h \
+ E:/QT/6.7.2/mingw_64/include/QtGui/qwindowdefs_win.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qobject.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qmargins.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/q23utility.h \
  E:/QT/6.7.2/mingw_64/include/QtGui/qaction.h \
@@ -369,7 +376,10 @@ CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.obj: \
  E:/QT/6.7.2/mingw_64/include/QtGui/qcursor.h \
  E:/QT/6.7.2/mingw_64/include/QtGui/qbitmap.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
- E:/QT/6.7.2/mingw_64/include/QtCore/qtmochelpers.h \
+ D:/Users/JUSTsoo/Desktop/QTF/me.h \
+ D:/Users/JUSTsoo/Desktop/QTF/girlfriend.h \
+ D:\Users\JUSTsoo\Desktop\QTF\build\QTF_autogen\EWIEGA46WW/moc_me.cpp \
+ D:/Users/JUSTsoo/Desktop/QTF/me.h \
  D:\Users\JUSTsoo\Desktop\QTF\build\QTF_autogen\EWIEGA46WW/moc_test_dialog.cpp \
  D:/Users/JUSTsoo/Desktop/QTF/test_dialog.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/QDialog \

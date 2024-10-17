@@ -25,6 +25,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         test_form.h test_form.cpp test_form.ui
         test_dialog.h test_dialog.cpp test_dialog.ui
+        girlfriend.h girlfriend.cpp
+        me.h me.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET QTF APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
@@ -57,7 +59,7 @@ set_target_properties(QTF PROPERTIES
     MACOSX_BUNDLE_BUNDLE_VERSION ${PROJECT_VERSION}
     MACOSX_BUNDLE_SHORT_VERSION_STRING ${PROJECT_VERSION_MAJOR}.${PROJECT_VERSION_MINOR}
     MACOSX_BUNDLE TRUE
-    WIN32_EXECUTABLE TRUE
+    WIN32_EXECUTABLE FALSE
 )
 
 include(GNUInstallDirs)

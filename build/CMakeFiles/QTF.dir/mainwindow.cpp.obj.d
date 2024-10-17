@@ -382,6 +382,12 @@ CMakeFiles/QTF.dir/mainwindow.cpp.obj: \
  E:/QT/6.7.2/mingw_64/include/QtGui/qcursor.h \
  E:/QT/6.7.2/mingw_64/include/QtGui/qbitmap.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
+ D:\Users\JUSTsoo\Desktop\QTF\me.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/QObject \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qobject.h \
+ D:\Users\JUSTsoo\Desktop\QTF\girlfriend.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/QString \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qstring.h \
  D:/Users/JUSTsoo/Desktop/QTF/build/QTF_autogen/include/ui_mainwindow.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/QVariant \
  E:/QT/6.7.2/mingw_64/include/QtCore/qvariant.h \
@@ -402,6 +408,9 @@ CMakeFiles/QTF.dir/mainwindow.cpp.obj: \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/QMenuBar \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/qmenubar.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/qmenu.h \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/QPushButton \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/qpushbutton.h \
+ E:/QT/6.7.2/mingw_64/include/QtWidgets/qabstractbutton.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/QStatusBar \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/qstatusbar.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/QToolBar \
@@ -414,5 +423,10 @@ CMakeFiles/QTF.dir/mainwindow.cpp.obj: \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/QDialog \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/qdialog.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/QPushButton \
- E:/QT/6.7.2/mingw_64/include/QtWidgets/qpushbutton.h \
- E:/QT/6.7.2/mingw_64/include/QtWidgets/qabstractbutton.h
+ E:/QT/6.7.2/mingw_64/include/QtCore/QDebug \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qdebug.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/QDate \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qdatetime.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qcalendar.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/QByteArray \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qbytearray.h

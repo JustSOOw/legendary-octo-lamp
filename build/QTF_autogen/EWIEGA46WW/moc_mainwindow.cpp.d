@@ -1,5 +1,9 @@
 D:/Users/JUSTsoo/Desktop/QTF/build/QTF_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Users/JUSTsoo/Desktop/QTF/mainwindow.h \
   D:/Users/JUSTsoo/Desktop/QTF/build/QTF_autogen/moc_predefs.h \
+  D:/Users/JUSTsoo/Desktop/QTF/girlfriend.h \
+  D:/Users/JUSTsoo/Desktop/QTF/me.h \
+  E:/QT/6.7.2/mingw_64/include/QtCore/QObject \
+  E:/QT/6.7.2/mingw_64/include/QtCore/QString \
   E:/QT/6.7.2/mingw_64/include/QtCore/q20functional.h \
   E:/QT/6.7.2/mingw_64/include/QtCore/q20memory.h \
   E:/QT/6.7.2/mingw_64/include/QtCore/q20type_traits.h \

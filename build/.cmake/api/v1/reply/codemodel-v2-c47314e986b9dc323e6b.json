@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-1c20f2cf942253cbc2a2.json",
+					"jsonFile" : "directory-.-Debug-aed52ce27f3bbf2c8f93.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "QTF::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-QTF-Debug-00df12772de2ac5f09af.json",
+					"jsonFile" : "target-QTF-Debug-735b35bacb6926118ff6.json",
 					"name" : "QTF",
 					"projectIndex" : 0
 				},

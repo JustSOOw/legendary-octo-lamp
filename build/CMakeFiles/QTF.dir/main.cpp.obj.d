@@ -367,6 +367,12 @@ CMakeFiles/QTF.dir/main.cpp.obj: D:\Users\JUSTsoo\Desktop\QTF\main.cpp \
  E:/QT/6.7.2/mingw_64/include/QtGui/qcursor.h \
  E:/QT/6.7.2/mingw_64/include/QtGui/qbitmap.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/qtabwidget.h \
+ D:\Users\JUSTsoo\Desktop\QTF\me.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/QObject \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qobject.h \
+ D:\Users\JUSTsoo\Desktop\QTF\girlfriend.h \
+ E:/QT/6.7.2/mingw_64/include/QtCore/QString \
+ E:/QT/6.7.2/mingw_64/include/QtCore/qstring.h \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/QApplication \
  E:/QT/6.7.2/mingw_64/include/QtWidgets/qapplication.h \
  E:/QT/6.7.2/mingw_64/include/QtCore/qcoreapplication.h \

@@ -223,6 +223,30 @@ QTF_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/QTF_autogen/mocs_compilation.cpp.s
 .PHONY : QTF_autogen/mocs_compilation.cpp.s
 
+girlfriend.obj: girlfriend.cpp.obj
+.PHONY : girlfriend.obj
+
+# target to build an object file
+girlfriend.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/girlfriend.cpp.obj
+.PHONY : girlfriend.cpp.obj
+
+girlfriend.i: girlfriend.cpp.i
+.PHONY : girlfriend.i
+
+# target to preprocess a source file
+girlfriend.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/girlfriend.cpp.i
+.PHONY : girlfriend.cpp.i
+
+girlfriend.s: girlfriend.cpp.s
+.PHONY : girlfriend.s
+
+# target to generate assembly for a file
+girlfriend.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/girlfriend.cpp.s
+.PHONY : girlfriend.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -270,6 +294,30 @@ mainwindow.s: mainwindow.cpp.s
 mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
+
+me.obj: me.cpp.obj
+.PHONY : me.obj
+
+# target to build an object file
+me.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/me.cpp.obj
+.PHONY : me.cpp.obj
+
+me.i: me.cpp.i
+.PHONY : me.i
+
+# target to preprocess a source file
+me.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/me.cpp.i
+.PHONY : me.cpp.i
+
+me.s: me.cpp.s
+.PHONY : me.s
+
+# target to generate assembly for a file
+me.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QTF.dir\build.make CMakeFiles/QTF.dir/me.cpp.s
+.PHONY : me.cpp.s
 
 test_dialog.obj: test_dialog.cpp.obj
 .PHONY : test_dialog.obj
@@ -337,12 +385,18 @@ help:
 	@echo ... QTF_autogen/mocs_compilation.obj
 	@echo ... QTF_autogen/mocs_compilation.i
 	@echo ... QTF_autogen/mocs_compilation.s
+	@echo ... girlfriend.obj
+	@echo ... girlfriend.i
+	@echo ... girlfriend.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
 	@echo ... mainwindow.obj
 	@echo ... mainwindow.i
 	@echo ... mainwindow.s
+	@echo ... me.obj
+	@echo ... me.i
+	@echo ... me.s
 	@echo ... test_dialog.obj
 	@echo ... test_dialog.i
 	@echo ... test_dialog.s
